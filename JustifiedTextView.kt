@@ -1,4 +1,4 @@
-package com.kiu.sbtej.util
+package com.kiu.util.justifiedtextview
 
 import java.util.ArrayList
 
