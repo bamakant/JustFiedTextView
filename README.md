@@ -1,2 +1,2 @@
-# JustFiedTextView
+# JustiFiedTextView
 Justified TextView using Kotlin. 
